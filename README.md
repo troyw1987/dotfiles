@@ -1,6 +1,6 @@
 # Info:
 - **This config is for my Hyprland desktop**
-- Most of the software configured is in the .config folder
+- All of the software required is in the packages tab
 - It's themed in catppuccin
 
 # Packages:
