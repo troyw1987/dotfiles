@@ -5,5 +5,9 @@
 
 
 # Usage:
-
+- Git clone this repo
+- cp into stow folder
+- `stow -t ~/`
+- cp into manually install folder
+- mv files into the correct places
 
