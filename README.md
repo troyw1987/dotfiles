@@ -11,3 +11,9 @@
 - cp into manually install folder
 - mv files into the correct places
 
+
+# Packages:
+```bash
+sudo pacman -S btop zsh waybar kitty
+sudo yay -S vencord
+```
