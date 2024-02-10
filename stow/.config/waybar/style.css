@@ -9,7 +9,7 @@
 }
 
 window#waybar {
-    background: transparent;
+    background-color: shade(@base,0.9);
     color: white;
 }
 
@@ -37,7 +37,7 @@ window#waybar {
 
 #mode {
     background: #64727D;
-    border-bottom: 3px solid white;
+    border-bottom: 1px solid white;
 }
 
 #clock, #battery, #cpu, #memory, #network, #pulseaudio, #custom-spotify, #tray, #mode {
