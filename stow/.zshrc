@@ -90,14 +90,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias fman="compgen -c | fzf | xargs man"
 
-ehyprl(){
-  nvim ~/.config/hypr/hyprland.conf
-}
-
-ehyprp(){
-  nvim ~/.config/hypr/hyprpaper.conf
-}
-
+alias ehyprl="nvim ~/.config/hypr/hyprland.conf"
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
