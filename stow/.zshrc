@@ -88,6 +88,8 @@ source $ZSH/oh-my-zsh.sh
 #   export EDITOR='mvim'
 # fi
 
+alias fman="compgen -c | fzf | xargs man"
+
 ehyprl(){
   nvim ~/.config/hypr/hyprland.conf
 }
