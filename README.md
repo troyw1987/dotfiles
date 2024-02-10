@@ -5,9 +5,10 @@
 
 # Packages:
 ```bash
-sudo pacman -S btop zsh waybar kitty
+sudo pacman -S btop neovim zsh waybar kitty cliphist jq npm unzip noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nerd-fonts 
 sudo yay -S vencord
 
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 ```
