@@ -1,6 +1,7 @@
 # Info:
 - **This config is for my Hyprland desktop**
 - All of the software required is in the packages tab
+- Follow guide after archinstall script
 - It's themed in catppuccin
 
 # Packages:
