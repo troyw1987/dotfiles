@@ -7,7 +7,7 @@
 # Packages:
 ```shell
 sudo pacman -S btop neovim zsh waybar kitty hyprpaper cliphist ripgrep jq stow npm unzip noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nerd-fonts 
-yay -S vencord nordvpn ttf-vista-fonts
+yay -S vencord nordvpn-bin ttf-vista-fonts
 
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
