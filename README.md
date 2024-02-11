@@ -18,5 +18,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 - cp into stow folder
 - run `stow --target=$HOME .`
 - cp into manually install folder
-- mv files into the correct places
+- copy files into the correct places
 
