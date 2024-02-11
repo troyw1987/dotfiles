@@ -15,8 +15,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # Usage:
 - Git clone this repo
-- cp into stow folder
+- cd into stow folder
 - run `rm ~/.zshrc` then `stow --target=$HOME .`
-- cp into manually install folder
-- copy files into the correct places
+- cd into manually install folder and move files into correct places
 
+- restart with `sudo shutdown -r now`
