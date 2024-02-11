@@ -5,7 +5,7 @@
 
 # Packages:
 ```shell
-sudo pacman -S btop neovim zsh waybar kitty cliphist ripgrep jq npm unzip noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nerd-fonts 
+sudo pacman -S btop neovim zsh waybar kitty cliphist ripgrep jq stow npm unzip noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nerd-fonts 
 yay -S vencord ttf-vista-fonts
 
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
